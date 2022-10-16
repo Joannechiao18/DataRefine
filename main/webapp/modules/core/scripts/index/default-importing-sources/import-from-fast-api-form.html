@@ -1,0 +1,27 @@
+<form bind="form">
+    <div class="grid-layout layout-normal">
+        <table style="width: 100%;">
+            <tr><td id="or-import-fast-api"></td></tr>
+            <tr>
+                <td>
+                    <div class="add-flie-container">
+                        <ul class="add-file-list-title">
+                            <li></li>
+                            <li id="or-import-fast-name"></li>
+                            <li id="or-import-fast-type"></li>
+                            <li id="or-import-fast-last-mod"></li>
+                        </ul>
+                        <ul class="add-file-list" id="list-sample" style="display: none;">
+                            <li><input type="radio" class="file-check" name="file[]"></li>
+                            <li><span class="flie-name">itri123456789.csv</span></li>
+                            <li><span class="flie-type">csv文件</span></li>
+                            <li><span class="file-change-time">2021年05月23日 23:06</span></li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            <tr><td style="text-align: right;"><button type="submit" bind="nextButton" class="button button-primary" type="button"></button></td></tr>
+            <tr bind="urlRow"><td colspan="2" ><input bind="urlInput" type="hidden" name="download" id="download_url" value=""/></td></tr>
+        </table>
+    </div>
+</form>
