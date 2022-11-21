@@ -1,9 +1,18 @@
 # DataRefine
 
-## Introduction
+## Abstract
+### Introduction
+
 DataRefine is a Java-based spreadsheet system that allows you to load data, understand it,
 clean it up, reconcile it, and augment it with data coming from
 the web all from a web browser.
+
+### Features 
+1.  Outlier detection facet using nearest-neighbor (NN)-based interquantile range (IQR) for numeric data, e.g. time series, image metadata
+2.  Semantic facet via the inference API of the pre-trained BERT model, e.g. people's name, stock, book title, streets
+3.  Type recommendation results sorting for non-numeric data
+4.  UI Renovation
+
 
 ## Visual Results
 <p align="center">
