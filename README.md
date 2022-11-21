@@ -35,13 +35,6 @@ git clone https://github.com/Joannechiao18/DataRefine.git
 4. `Run configuration` and set the base directory to `${workspace_loc:/openrefine}`; Goals to `exec:java`. 
 5. Click `Run`, and DataRefine will run at local host `http://127.0.0.1:3333/`. 
 
-
-## Licensing and legal issues
-
-OpenRefine is open source software and is licensed under the BSD license
-located in the [LICENSE.txt](LICENSE.txt). See the folder `licenses` for information on open source
-libraries that OpenRefine depends on.
-
 ## Acknowledgement
 
 <details><summary> <b>Expand</b> </summary>
