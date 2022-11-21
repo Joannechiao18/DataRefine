@@ -1,5 +1,8 @@
 # DataRefine
 
+![](https://img.shields.io/badge/JDK-8-blueviolet)
+![](https://img.shields.io/badge/Java-17-blue)
+
 ## Abstract
 ### Introduction
 
