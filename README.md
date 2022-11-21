@@ -8,7 +8,7 @@ the web all from a web browser.
 ## Visual Results
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/84509949/203006750-56a8181b-1ccc-4e14-a007-a73486f69111.jpg" width="350" height="300"/>
+    <img src="https://user-images.githubusercontent.com/84509949/203006750-56a8181b-1ccc-4e14-a007-a73486f69111.jpg" width="500" height="450"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@ the web all from a web browser.
 
 1. Clone this github repo. 
 ```
-git clone https://github.com/Joannechiao18/Improved-GANomaly.git
+git clone https://github.com/Joannechiao18/DataRefine.git
 ```
 2. Install [JDK 8](https://jdk.java.net), [Apache Maven](https://maven.apache.org/), and [Eclipse](https://www.eclipse.org/downloads/).
 3. Import the cloned project into Eclipse. (Remember to uncheck `extensions` and `packaging` on the import window).
